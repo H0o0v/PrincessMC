@@ -5,7 +5,7 @@
     "name": "PrincessMC",
     "description": "PrincessMC Running Minecraft 1.20.1 (Forge v47.4.6)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "princessmc.kro.kr:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
