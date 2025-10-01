@@ -1,8 +1,13 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: PrincessMC-setup-1.0.3.exe
-    sha512: v9NqJ7ZCp81qwpUCgo+9gg/XkVsTVVeNCcwabdQsKjvFyYd2GaYKwQhlIjopkzJHNcgnaT1VlvFwio0aTUafaA==
-    size: 91605364
-path: PrincessMC-setup-1.0.3.exe
-sha512: v9NqJ7ZCp81qwpUCgo+9gg/XkVsTVVeNCcwabdQsKjvFyYd2GaYKwQhlIjopkzJHNcgnaT1VlvFwio0aTUafaA==
-releaseDate: '2025-10-01T12:07:24.980Z'
+  - url: PrincessMC-setup-1.0.4.exe
+    sha512: 0p53fWLkRKgy7KW8AmQazxol9zoaAxmWYxWTnEk7w683bFw39XDdjPqsptSjZG7PDDAlugnEoHwh2jB9/iP5Ig==
+    size: 91605266
+path: PrincessMC-setup-1.0.4.exe
+sha512: 0p53fWLkRKgy7KW8AmQazxol9zoaAxmWYxWTnEk7w683bFw39XDdjPqsptSjZG7PDDAlugnEoHwh2jB9/iP5Ig==
+releaseName: PrincessMC v${version}
+releaseNotes: |
+  - [추가] 자동 업데이트 추가
+  - [추가] 기본 쉐이더팩 추가
+  - [개선] UI 텍스트/아이콘 업데이트
+releaseDate: '2025-10-01T12:19:20.384Z'
