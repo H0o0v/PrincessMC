@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: PrincessMC-setup-1.0.2.exe
-    sha512: tDBzrk7oMQD3KyP1cJInXtMNtN0tMY25jw6mn+Vk1VosKxSSPlI1dGO7sonzHliQ9rWM8wgZAzYnl1IqiIHt0g==
-    size: 91578679
-path: PrincessMC-setup-1.0.2.exe
-sha512: tDBzrk7oMQD3KyP1cJInXtMNtN0tMY25jw6mn+Vk1VosKxSSPlI1dGO7sonzHliQ9rWM8wgZAzYnl1IqiIHt0g==
-releaseDate: '2025-10-01T11:43:14.570Z'
+  - url: PrincessMC-setup-1.0.3.exe
+    sha512: v9NqJ7ZCp81qwpUCgo+9gg/XkVsTVVeNCcwabdQsKjvFyYd2GaYKwQhlIjopkzJHNcgnaT1VlvFwio0aTUafaA==
+    size: 91605364
+path: PrincessMC-setup-1.0.3.exe
+sha512: v9NqJ7ZCp81qwpUCgo+9gg/XkVsTVVeNCcwabdQsKjvFyYd2GaYKwQhlIjopkzJHNcgnaT1VlvFwio0aTUafaA==
+releaseDate: '2025-10-01T12:07:24.980Z'
