@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "com.aetherteam:aether:1.20.1-1.5.2-neoforge@jar",
+          "name": "The Aether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39746319,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
+            "MD5": "3508066e170a010e8a466eea05579b85"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.20.1.20250830@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
@@ -511,6 +521,17 @@
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/resourcepacks/BetterHangulFont.zip",
             "MD5": "8bee6a3d18c216e4d4e78faecc066ef3",
             "path": "resourcepacks/BetterHangulFont.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
         }
       ]
