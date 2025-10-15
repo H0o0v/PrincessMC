@@ -433,6 +433,56 @@
           ]
         },
         {
+          "id": "teamrazor.aeroblender:aeroblender:1.20.1-1.0.1-neoforge@jar",
+          "name": "AeroBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21641,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aeroblender-1.20.1-1.0.1-neoforge.jar",
+            "MD5": "c0fab47292ec752a20e0e18d16d96a4a"
+          }
+        },
+        {
+          "id": "com.aetherteam.emissivity:aether_emissivity:1.20.1-1.0.0-neoforge@jar",
+          "name": "Emissivity",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 184509,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether_emissivity-1.20.1-1.0.0-neoforge.jar",
+            "MD5": "40bfa91e01c3002d60c60ae3d5001138"
+          }
+        },
+        {
+          "id": "com.aetherteam.enhanced_extinguishing:aether_enhanced_extinguishing:1.20.1-1.0.0-neoforge@jar",
+          "name": "Enhanced Extinguishing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123210,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar",
+            "MD5": "739f443584893ebd5c297f41c3414dd4"
+          }
+        },
+        {
+          "id": "com.aetherteam.protect_your_moa:aether_protect_your_moa:1.20.1-1.0.0-neoforge@jar",
+          "name": "Protect Your Moa",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1226698,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar",
+            "MD5": "e5e94fe79b2b7bb73a23108c57083ff0"
+          }
+        },
+        {
+          "id": "com.aetherteam.treasure_reforging:aether_treasure_reforging:1.20.1-1.0.1-neoforge@jar",
+          "name": "Treasure Reforging",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 167459,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar",
+            "MD5": "23c2f100f0042e4cd8c36cdf965c468d"
+          }
+        },
+        {
           "id": "com.aetherteam:aether:1.20.1-1.5.2-neoforge@jar",
           "name": "The Aether",
           "type": "ForgeMod",
@@ -440,6 +490,96 @@
             "size": 39746319,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether-1.20.1-1.5.2-neoforge.jar",
             "MD5": "3508066e170a010e8a466eea05579b85"
+          }
+        },
+        {
+          "id": "mrthomas20121.gravitation:gravitation:1.1.6@jar",
+          "name": "Aether Gravitation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2452826,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Aether%20Gravitation-1.1.6-1.20.1.jar",
+            "MD5": "7eea9d482b8f81d16c964f6ac8a9c9ac"
+          }
+        },
+        {
+          "id": "net.zjjohn121110:aethersdelight:0.1.3.1-1.20.1@jar",
+          "name": "Aethers Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 461877,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aethersdelight-0.1.3.1-1.20.1.jar",
+            "MD5": "d04cf6b166c66d4ea757c8f864ee3faa"
+          }
+        },
+        {
+          "id": "net.aurelj:aether_villages:1.0.7@jar",
+          "name": "Aether Villages",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646120,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/AetherVillages-1.20.1-1.0.7-forge.jar",
+            "MD5": "8a70ca99cec1bb65223a173ea2ae9697"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:attributeslib:1.3.7@jar",
+          "name": "Apothic Attributes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227511,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
+          }
+        },
+        {
+          "id": "com.teammetallurgy:aquaculture:2.5.5@jar",
+          "name": "Aquaculture 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 601173,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.5.jar",
+            "MD5": "515dde53d77858310af77cd93a5d1316"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.2@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3185379,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
+            "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
+          }
+        },
+        {
+          "id": "cofh.core:cofh_core:11.0.2@jar",
+          "name": "CoFH Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1509649,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
+            "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.6@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18764522,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
+            "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
           }
         },
         {
@@ -463,6 +603,16 @@
           }
         },
         {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.9@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2978080,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
+            "MD5": "71e177a98e0e6f399761ad00e978d177"
+          }
+        },
+        {
           "id": "snownee.jade:jade:11.13.2+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
@@ -470,6 +620,16 @@
             "size": 552486,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
             "MD5": "7c349670f77fd64b9e9854c4a8d82fcc"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.116@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1387236,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.116.jar",
+            "MD5": "89817a7201d47a7a23c3f9d217f891f4"
           }
         },
         {
@@ -493,6 +653,56 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7193768,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          }
+        },
+        {
+          "id": "club.redux.sunset:lavafishing:1.1.3@jar",
+          "name": "Lava Fishing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 366437,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/lavafishing-1.20.1-1.1.3-all.jar",
+            "MD5": "800287f8149c19ad2ca974f78cd07754"
+          }
+        },
+        {
+          "id": "noobanidus.mods:lootr:0.7.35.92@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 460882,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.93.jar",
+            "MD5": "2d5374b809d9ec1d7700a194b2fd0dd5"
+          }
+        },
+        {
+          "id": "com.legacy.lost_aether:lost_aether_content:1.2.3@jar",
+          "name": "Aether: Lost Content",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20264145,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/lost_aether_content-1.20.1-1.2.3.jar",
+            "MD5": "29fa2da4a1623564286f0b4ec61e8716"
+          }
+        },
+        {
+          "id": "slimeknights.mantle:mantle:1.11.79@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1480444,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Mantle-1.20.1-1.11.79.jar",
+            "MD5": "19cf5725471882f2f65182e70f9c98ef"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -503,6 +713,66 @@
           }
         },
         {
+          "id": "dev.shadowsoffire:placebo:8.6.0@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285367,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Placebo-1.20.1-8.6.0.jar",
+            "MD5": "8c3f259ad71399119d9a0fa6f0673dc5"
+          }
+        },
+        {
+          "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14935230,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "net.mcreator.stalwartdungeons:stalwart_dungeons:1.2.8@jar",
+          "name": "Stalwart Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1049721,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/stalwart-dungeons-1.20.1-1.2.8.jar",
+            "MD5": "07df68fc601833f1e5f7f5822c80cb24"
+          }
+        },
+        {
+          "id": "com.legacy.structure_gel.core:structure_gel:2.15.1@jar",
+          "name": "Structure Gel API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 899991,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/structure_gel-1.20.1-2.15.1.jar",
+            "MD5": "606e7ac1e81ba5389a52e746059fe620"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107533,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893"
+          }
+        },
+        {
+          "id": "cofh.thermal.foundation:thermal_foundation:11.0.6@jar",
+          "name": "Thermal Foundation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4549423,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/thermal_foundation-1.20.1-11.0.6.70.jar",
+            "MD5": "00cf83270e22559998cc82cfe48579d7"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.35@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -510,6 +780,16 @@
             "size": 8646989,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.35.jar",
             "MD5": "434aeb9f4c3b5014b0179701dbeffc4b"
+          }
+        },
+        {
+          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-30@jar",
+          "name": "Zeta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1006574,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Zeta-1.0-30.jar",
+            "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
           }
         },
         {
