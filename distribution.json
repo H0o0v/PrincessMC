@@ -593,6 +593,36 @@
           }
         },
         {
+          "id": "fuzs.diagonalfences:diagonalfences:8.1.5@jar",
+          "name": "Diagonal Fences",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182476,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+            "MD5": "29bc8833f5d9b1edcb32617e16a9ec5e"
+          }
+        },
+        {
+          "id": "fuzs.diagonalwalls:diagonalwalls:8.0.4@jar",
+          "name": "Diagonal Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 173567,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+            "MD5": "4f0de81465cddd09bf866eb38c1922f3"
+          }
+        },
+        {
+          "id": "fuzs.diagonalwindows:diagonalwindows:8.1.5@jar",
+          "name": "Diagonal Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 183094,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
+            "MD5": "6a4ffa39c08847b280c66f0907b32668"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
