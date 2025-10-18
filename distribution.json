@@ -433,6 +433,33 @@
           ]
         },
         {
+          "id": "io.wispforest:curios:7.4.0+1.20.1@jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388707,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionaloff/accessories_cclayer-7.4.0-beta.18+1.20.1.jar",
+            "MD5": "10a31940cc4e1171e0df5950fcf1b841"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "io.wispforest.accessories.neoforge:accessories:1.0.0-beta46+1.20.1@jar",
+          "name": "Accessories",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1077234,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionaloff/accessories-neoforge-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "cb55301f9d5ad69f37e1dc3dbf2c235f"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "teamrazor.aeroblender:aeroblender:1.20.1-1.0.1-neoforge@jar",
           "name": "AeroBlender",
           "type": "ForgeMod",
@@ -493,6 +520,16 @@
           }
         },
         {
+          "id": "net.zepalesque.redux:aether_redux:2.0.19@jar",
+          "name": "The Aether: Redux",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29448522,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/aether-redux-2.0.19-1.20.1-neoforge.jar",
+            "MD5": "5bd9d4340c22a228a2d0cc571d0638fe"
+          }
+        },
+        {
           "id": "mrthomas20121.gravitation:gravitation:1.1.6@jar",
           "name": "Aether Gravitation",
           "type": "ForgeMod",
@@ -533,6 +570,26 @@
           }
         },
         {
+          "id": "net.devel:amelet:0.0.8-1.20.1-47.4.0@jar",
+          "name": "Apotheosis Totem",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 144290,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/amelet-0.0.9-1.20.1-47.4.0.jar",
+            "MD5": "f4cbc14df95ef396371d24766b6ca81a"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:apotheosis:7.4.8@jar",
+          "name": "Apotheosis",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2803994,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Apotheosis-1.20.1-7.4.8.jar",
+            "MD5": "db02304c99d20ff51d4c2427d33c9044"
+          }
+        },
+        {
           "id": "dev.shadowsoffire:attributeslib:1.3.7@jar",
           "name": "Apothic Attributes",
           "type": "ForgeMod",
@@ -553,6 +610,36 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:9.0.8@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 567166,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/architectury-9.0.8-forge.jar",
+            "MD5": "02ac749cdcd9f064202dd0253b59365c"
+          }
+        },
+        {
+          "id": "artifacts:artifacts:9.5.16@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850457,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "MD5": "85081468e7498005f5dfdab2ae520097"
+          }
+        },
+        {
+          "id": "net.mcreator:artifactscrafting:1.0.0@jar",
+          "name": "Artifacts Crafting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 326697,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/artifactscrafting-1.0.0-forge-1.20.1.jar",
+            "MD5": "220138f1870deb6f104972a8ae092d99"
+          }
+        },
+        {
           "id": "com.betterfpsdist:betterfpsdist:1.20.1-6.0@jar",
           "name": "Betterfpsdist mod",
           "type": "ForgeMod",
@@ -566,6 +653,16 @@
           }
         },
         {
+          "id": "top.theillusivec4:caelus:3.1.0+1.20@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38169,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/caelus-forge-3.1.0+1.20.jar",
+            "MD5": "34529f4aa9003214c31368bfb51ae1ac"
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:2.6.2@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -573,6 +670,16 @@
             "size": 3185379,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
             "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.0.99@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1156874,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/cloth-config-11.0.99-forge.jar",
+            "MD5": "090c0031a4d35a156cac0ef259134ec8"
           }
         },
         {
@@ -619,6 +726,26 @@
           }
         },
         {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "com.psilocke:curiouslanterns:1.20.1-1.3.7@jar",
+          "name": "Curious Lanterns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35886,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/curiouslanterns-1.20.1-1.3.7.jar",
+            "MD5": "019d0c8d88f742b86ac25148a6b3f6f1"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.20.1.20250830@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
@@ -656,6 +783,16 @@
             "size": 183094,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
             "MD5": "6a4ffa39c08847b280c66f0907b32668"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:elytraslot:6.4.4+1.20.1@jar",
+          "name": "Elytra Slot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100660,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
+            "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
           }
         },
         {
@@ -702,6 +839,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.2.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163788,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.2.2.jar",
+            "MD5": "9ccb2db82b63093a9e24fc094af38258"
           }
         },
         {
@@ -808,6 +955,16 @@
           }
         },
         {
+          "id": "com.nyfaria:nyfsquiver:1.18.1-0.7.0@jar",
+          "name": "Nyf's Quiver",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 140651,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/nyfsquiver-1.20.1-forge-1.0.1.jar",
+            "MD5": "dc9256a8e30f24cd706280387bdb3528"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.7.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -818,13 +975,13 @@
           }
         },
         {
-          "id": "dev.shadowsoffire:placebo:8.6.0@jar",
+          "id": "dev.shadowsoffire:placebo:8.6.3@jar",
           "name": "Placebo",
           "type": "ForgeMod",
           "artifact": {
-            "size": 285367,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Placebo-1.20.1-8.6.0.jar",
-            "MD5": "8c3f259ad71399119d9a0fa6f0673dc5"
+            "size": 282474,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "MD5": "13133ab9989e8474931cd7a86bd19cc5"
           }
         },
         {
@@ -845,6 +1002,36 @@
             "size": 14935230,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Quark-4.0-462.jar",
             "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:radiantgear:2.2.0+1.20.1@jar",
+          "name": "Radiant Gear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47170,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/radiantgear-forge-2.2.0+1.20.1.jar",
+            "MD5": "19cb99849c8fe9856530b8173240b90a"
+          }
+        },
+        {
+          "id": "com.kwpugh:ring_of_blink:1.6.1@jar",
+          "name": "Ring of Blink",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17116,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/RingOfBlink-Forge-1.20.1-1.6.1.jar",
+            "MD5": "49c888e14afa777fcec0f37a02a32282"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:shulkerboxslot:5.2.0+1.20.1@jar",
+          "name": "Shulker Box Slot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 187549,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/shulkerboxslot-forge-5.2.0+1.20.1.jar",
+            "MD5": "7c1a31912df1feff8d6b8e8aca5c57ab"
           }
         },
         {
@@ -908,14 +1095,14 @@
           }
         },
         {
-          "id": "BetterHangulFont.zip",
-          "name": "BetterHangulFont.zip",
+          "id": "PrincessGUI-1.0.zip",
+          "name": "PrincessGUI-1.0.zip",
           "type": "File",
           "artifact": {
-            "size": 80185,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/resourcepacks/BetterHangulFont.zip",
-            "MD5": "8bee6a3d18c216e4d4e78faecc066ef3",
-            "path": "resourcepacks/BetterHangulFont.zip"
+            "size": 6018549,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/resourcepacks/PrincessGUI-1.0.zip",
+            "MD5": "37c5b5435f840b4ee9f5e935b9707ced",
+            "path": "resourcepacks/PrincessGUI-1.0.zip"
           }
         },
         {
