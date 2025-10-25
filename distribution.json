@@ -433,33 +433,6 @@
           ]
         },
         {
-          "id": "io.wispforest:curios:7.4.0+1.20.1@jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 388707,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionaloff/accessories_cclayer-7.4.0-beta.18+1.20.1.jar",
-            "MD5": "10a31940cc4e1171e0df5950fcf1b841"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "io.wispforest.accessories.neoforge:accessories:1.0.0-beta46+1.20.1@jar",
-          "name": "Accessories",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1077234,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionaloff/accessories-neoforge-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "cb55301f9d5ad69f37e1dc3dbf2c235f"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "teamrazor.aeroblender:aeroblender:1.20.1-1.0.1-neoforge@jar",
           "name": "AeroBlender",
           "type": "ForgeMod",
