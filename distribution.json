@@ -693,6 +693,19 @@
           }
         },
         {
+          "id": "generated.forgemod:continuity:3.0.0+1.20.1.forge@jar",
+          "name": "Continuity",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1016666,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/continuity-3.0.0+1.20.1.forge.jar",
+            "MD5": "d14cdccb4b6c161d9846cc8cdf03068e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.simibubi:create:6.0.6@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -803,6 +816,32 @@
             "size": 1320675,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:3.0.1@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 657484,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/entity_model_features_1.20.1-forge-3.0.1.jar",
+            "MD5": "9389de85f96d0a97953c74faab9c4d60"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.0.2@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 894117,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/entity_texture_features_1.20.1-forge-7.0.2.jar",
+            "MD5": "1b13a36cd9ba7686d997a99001226373"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1099,9 +1138,9 @@
           "name": "PrincessGUI-1.0.zip",
           "type": "File",
           "artifact": {
-            "size": 6018549,
+            "size": 4412632,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/resourcepacks/PrincessGUI-1.0.zip",
-            "MD5": "37c5b5435f840b4ee9f5e935b9707ced",
+            "MD5": "f9dde52ed2a54aa64517a24d0f06bdd1",
             "path": "resourcepacks/PrincessGUI-1.0.zip"
           }
         },
