@@ -1,10 +1,10 @@
-version: 1.0.17
+version: 1.0.18
 files:
-  - url: PrincessMC-setup-1.0.17.exe
-    sha512: ogiyfmHO+PqJnScuSlzjxOUnkYJJXEgnsPWA58YFxCm0Vi6T6QWTzkH6KB1PV8TkuEQSKUywLK31KUINXNRbYg==
-    size: 91605642
-path: PrincessMC-setup-1.0.17.exe
-sha512: ogiyfmHO+PqJnScuSlzjxOUnkYJJXEgnsPWA58YFxCm0Vi6T6QWTzkH6KB1PV8TkuEQSKUywLK31KUINXNRbYg==
+  - url: PrincessMC-setup-1.0.18.exe
+    sha512: ceu9G96nCBYsUCzZjxijDBMLyvbm3VYyKKB9fEBCfx2yU8ZH87SY9M0cp72Mnrbnr8hB2Odt/Dho7Ihe94jyVA==
+    size: 91605580
+path: PrincessMC-setup-1.0.18.exe
+sha512: ceu9G96nCBYsUCzZjxijDBMLyvbm3VYyKKB9fEBCfx2yU8ZH87SY9M0cp72Mnrbnr8hB2Odt/Dho7Ihe94jyVA==
 releaseName: PrincessMC v${version}
 releaseNotes: |
   - [추가] 자동 업데이트 추가
@@ -12,4 +12,4 @@ releaseNotes: |
   - [추가] 천국 모드 추가
   - [추가] 각종 애드온 및 모드 추가
   - [개선] UI 텍스트/아이콘 업데이트
-releaseDate: '2025-10-25T08:34:14.444Z'
+releaseDate: '2025-10-25T08:38:04.058Z'
