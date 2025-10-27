@@ -701,8 +701,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104374,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsCaves-Enlightend.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/Compat_AlexsCaves-Enlightend.jar",
             "MD5": "83aa3f0f7ce4fdb4d83a4461e06e068b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -711,8 +714,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107423,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsMobs-Naturalist.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/Compat_AlexsMobs-Naturalist.jar",
             "MD5": "cbb19d04301fdddc802626967e8ce704"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -721,8 +727,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 156195,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsMobs-Neapolitan.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/Compat_AlexsMobs-Neapolitan.jar",
             "MD5": "112693f972706d3a070726ad6938361e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -836,6 +845,16 @@
             "size": 1320675,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "net.mcreator:enlightened_end:5.0.14@jar",
+          "name": "Enlightend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21506560,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/enlightend-5.0.14-1.20.1.jar",
+            "MD5": "73e2f003a09de3eb399ec0f726e14793"
           }
         },
         {
@@ -1031,6 +1050,16 @@
             "size": 2831148,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "MD5": "95bdd5558d34044f54aab0ce292e679b"
           }
         },
         {
