@@ -533,6 +533,26 @@
           }
         },
         {
+          "id": "net.mcreator.alexsmobsextramusic:alexs_mobs_extra_music:1.1.0@jar",
+          "name": "Alex's Mobs EXTRA Music",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3919767,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Alex's%20Mobs%20Music%20Mod%201.20.1%20v1.1.0.jar",
+            "MD5": "a90776c385dd7f0fa837bf02e0de6a04"
+          }
+        },
+        {
+          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
+          "name": "Alex's Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74871657,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
+            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
+          }
+        },
+        {
           "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
@@ -540,6 +560,16 @@
             "size": 26350793,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
             "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "com.crimsoncrips:alexsmobsinteraction:5.4@jar",
+          "name": "Alex's Mobs Interaction",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6952315,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/alexsmobsinteraction-5.4-all.jar",
+            "MD5": "d76d27d426b08d9ff7c187ac4b290c6c"
           }
         },
         {
@@ -663,6 +693,36 @@
             "size": 1509649,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
             "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
+          }
+        },
+        {
+          "id": "generated.forgemod:alexscavesenlightenedcompat:1.1.0@jar",
+          "name": "Alex's Caves - Enlightened Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104374,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsCaves-Enlightend.jar",
+            "MD5": "83aa3f0f7ce4fdb4d83a4461e06e068b"
+          }
+        },
+        {
+          "id": "generated.forgemod:alexsmobsnaturalistcompat:1.3.0@jar",
+          "name": "Alex's Mobs - Naturalist Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107423,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsMobs-Naturalist.jar",
+            "MD5": "cbb19d04301fdddc802626967e8ce704"
+          }
+        },
+        {
+          "id": "generated.forgemod:alexsmobsneapolitancompat:1.2.0@jar",
+          "name": "Alex's Mobs - Neapolitan Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156195,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Compat_AlexsMobs-Neapolitan.jar",
+            "MD5": "112693f972706d3a070726ad6938361e"
           }
         },
         {
