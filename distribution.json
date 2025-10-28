@@ -1004,16 +1004,6 @@
           }
         },
         {
-          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
-          "name": "Pehkui",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 671605,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
-            "MD5": "95bdd5558d34044f54aab0ce292e679b"
-          }
-        },
-        {
           "id": "dev.shadowsoffire:placebo:8.6.3@jar",
           "name": "Placebo",
           "type": "ForgeMod",
