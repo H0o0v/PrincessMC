@@ -433,6 +433,19 @@
           ]
         },
         {
+          "id": "net.spellcraftgaming.rpghud.main:rpghud:3.10.3@jar",
+          "name": "RPG-HUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 222317,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/optionalon/[1.20.1][Forge]%20RPG-HUD-3.10.3.jar",
+            "MD5": "7e9be4e9b8c0783dc7693df320998326"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "teamrazor.aeroblender:aeroblender:1.20.1-1.0.1-neoforge@jar",
           "name": "AeroBlender",
           "type": "ForgeMod",
@@ -1001,6 +1014,16 @@
             "size": 2831148,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "MD5": "95bdd5558d34044f54aab0ce292e679b"
           }
         },
         {
