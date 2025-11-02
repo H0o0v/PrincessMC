@@ -1187,7 +1187,7 @@
       "id": "PrincessMC21-1.21.9",
       "name": "PrincessMC21 (Minecraft 1.21.9)",
       "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
-      "icon": null,
+      "icon": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/icon.png",
       "version": "1.0.0",
       "address": "princessmc.kro.kr:25565",
       "minecraftVersion": "1.21.9",
