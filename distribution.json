@@ -1189,7 +1189,7 @@
       "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "princessmc.kro.kr:25565",
+      "address": "localhost:25565",
       "minecraftVersion": "1.21.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1317,8 +1317,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 921951,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC21-1.21.9/fabricmods/required/Jade-1.21.9-Fabric-20.0.5.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC21-1.21.9/fabricmods/optionalon/Jade-1.21.9-Fabric-20.0.5.jar",
             "MD5": "86fb6db4751ff52acafd22f5040ff7f7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
