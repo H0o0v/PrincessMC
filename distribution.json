@@ -1189,7 +1189,7 @@
       "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "princessmc.kro.kr:25565",
       "minecraftVersion": "1.21.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
