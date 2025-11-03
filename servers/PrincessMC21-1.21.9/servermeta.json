@@ -5,13 +5,13 @@
     "name": "PrincessMC21",
     "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
     "icon": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/icon.png",
-    "address": "princessmc.kro.kr:25565",
+    "address": "princessmc.kro.kr:31482",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "fabric": {

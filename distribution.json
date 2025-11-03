@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -1189,14 +1189,14 @@
       "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
       "icon": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/icon.png",
       "version": "1.0.0",
-      "address": "princessmc.kro.kr:25565",
+      "address": "princessmc.kro.kr:31482",
       "minecraftVersion": "1.21.9",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -1322,6 +1322,26 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.9-6.0.0-beta.53@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3609220,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC21-1.21.9/fabricmods/required/journeymap-fabric-1.21.9-6.0.0-beta.53.jar",
+            "MD5": "946cad390c9fcf9e952ab2e4720a37e5"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.2+mc1.21.10@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 642593,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC21-1.21.9/fabricmods/required/koreanpatch-fabric-1.9.2+mc1.21.10.jar",
+            "MD5": "18759aa86998e9df2a83926263752b9f"
           }
         },
         {
