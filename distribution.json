@@ -775,16 +775,6 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.20.1.20250830@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10804042,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-20250830.jar",
-            "MD5": "7c9fd5b27f637ffdb8e5a19fafe2bb1f"
-          }
-        },
-        {
           "id": "fuzs.diagonalfences:diagonalfences:8.1.5@jar",
           "name": "Diagonal Fences",
           "type": "ForgeMod",
