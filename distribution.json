@@ -13,7 +13,7 @@
       "description": "PrincessMC Running Minecraft 1.20.1 (Forge v47.4.6)",
       "icon": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/icon.png",
       "version": "1.0.0",
-      "address": "princessmc.kro.kr:25565",
+      "address": "princessmc.kro.kr:31482",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1148,6 +1148,17 @@
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/resourcepacks/PrincessGUI-1.0.zip",
             "MD5": "f9dde52ed2a54aa64517a24d0f06bdd1",
             "path": "resourcepacks/PrincessGUI-1.0.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.20.1/files/servers.dat",
+            "MD5": "ee3a2b483e4e54607d3e1f41366928d1",
+            "path": "servers.dat"
           }
         },
         {
