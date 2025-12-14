@@ -1165,6 +1165,57 @@
       ]
     },
     {
+      "id": "PrincessMC-1.21.1",
+      "name": "PrincessMC (Minecraft 1.21.1)",
+      "description": "PrincessMC Running Minecraft 1.21.1 (NeoForge v21.1.216)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "princessmc.kro.kr:31482",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "PrincessGUI-1.0.zip",
+          "name": "PrincessGUI-1.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4412632,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/resourcepacks/PrincessGUI-1.0.zip",
+            "MD5": "f9dde52ed2a54aa64517a24d0f06bdd1",
+            "path": "resourcepacks/PrincessGUI-1.0.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/servers.dat",
+            "MD5": "ee3a2b483e4e54607d3e1f41366928d1",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        }
+      ]
+    },
+    {
       "id": "PrincessMC21-1.21.9",
       "name": "PrincessMC21",
       "description": "PrincessMC21 Running Minecraft 1.21.9 (Fabric v0.17.3)",
