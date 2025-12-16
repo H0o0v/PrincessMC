@@ -1720,6 +1720,88 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:aether:1.5.10@jar",
+          "name": "The Aether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40223909,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/aether-1.21.1-1.5.10-neoforge.jar",
+            "MD5": "457006464bfb2c19d5323e2d97407b17"
+          }
+        },
+        {
+          "id": "generated.forgemod:iris:1.8.12-snapshot+mc1.21.1-local@jar",
+          "name": "Iris",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2438548,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
+          }
+        },
+        {
+          "id": "generated.forgemod:koreanpatch:1.9.3+mc1.21@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 311529,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/koreanpatch-neoforge-1.9.3+mc1.21.jar",
+            "MD5": "3c8f37ae8329180638fb1e058ad1a118"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium:0.6.13+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162994,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "MD5": "e5018c782d851fea76be0205b7616e5d"
+          }
+        },
+        {
+          "id": "generated.forgemod:twilightforest:4.7.3196@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26100387,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/twilightforest-1.21.1-4.7.3196-universal.jar",
+            "MD5": "991c640a3ff77c0a579a0cbb95a28735"
+          }
+        },
+        {
+          "id": "generated.forgemod:xaerominimap:25.2.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1710781,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+            "MD5": "fd0f59f1f365ef7cbcff8779c2483cd6"
+          }
+        },
+        {
+          "id": "PrincessGUI-1.0.zip",
+          "name": "PrincessGUI-1.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4412632,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/resourcepacks/PrincessGUI-1.0.zip",
+            "MD5": "f9dde52ed2a54aa64517a24d0f06bdd1",
+            "path": "resourcepacks/PrincessGUI-1.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
         }
       ]
     },
