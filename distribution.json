@@ -1752,6 +1752,16 @@
           }
         },
         {
+          "id": "generated.forgemod:owo:0.12.15.5-beta.1+1.21@jar",
+          "name": "Oωo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1221583,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f"
+          }
+        },
+        {
           "id": "generated.forgemod:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "ForgeMod",
