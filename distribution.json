@@ -1726,9 +1726,9 @@
           "name": "The Aether",
           "type": "ForgeMod",
           "artifact": {
-            "size": 40412108,
+            "size": 40445713,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/aether-1.21.1-1.5.10-neoforge.jar",
-            "MD5": "5b66bd6c94f5326d7fcc9a38cde0ed72"
+            "MD5": "19f03fb1e8c561412e065148adb392e3"
           }
         },
         {
@@ -1776,9 +1776,9 @@
           "name": "The Twilight Forest",
           "type": "ForgeMod",
           "artifact": {
-            "size": 26452004,
+            "size": 26580987,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/twilightforest-1.21.1-4.7.3196-universal.jar",
-            "MD5": "92b08438086322663bf290755f3f2b6b"
+            "MD5": "69f394f8cda99516a5fc416e867aea92"
           }
         },
         {
