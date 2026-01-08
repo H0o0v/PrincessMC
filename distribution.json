@@ -1782,6 +1782,16 @@
           }
         },
         {
+          "id": "generated.forgemod:voicechat:1.21.1-2.6.10@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4890349,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.10.jar",
+            "MD5": "8f5de5834c54011320394880e727259c"
+          }
+        },
+        {
           "id": "generated.forgemod:xaerominimap:25.2.10@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
@@ -1800,6 +1810,17 @@
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/resourcepacks/PrincessGUI-1.0.zip",
             "MD5": "f9dde52ed2a54aa64517a24d0f06bdd1",
             "path": "resourcepacks/PrincessGUI-1.0.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/servers.dat",
+            "MD5": "f4afa1f777266506b49c9e46d1a0a51f",
+            "path": "servers.dat"
           }
         },
         {
