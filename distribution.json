@@ -575,6 +575,97 @@
           }
         },
         {
+          "id": "generated.forgemod:alexsmobs:1.22.17@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26620546,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/alexsmobs-1.22.17.jar",
+            "MD5": "87970b4846bffc20123ecd267d888ee8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:architectury:13.0.8@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584004,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/architectury-13.0.8-neoforge.jar",
+            "MD5": "7a45a948b525c031ca85d221dfdbed85"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:azurelib:3.0.2@jar",
+          "name": "AzureLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1327051,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/azurelib-neo-1.21.1-3.0.2.jar",
+            "MD5": "a91bdb0c7d1fbd98ba750899523f5d17"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:citadel:2.7.5@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3029054,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/citadel-1.21.1-2.7.5.jar",
+            "MD5": "5b81c237af085baad2635a65e01a1f86"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:curios:9.5.1+1.21.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/curios-neoforge-9.5.1+1.21.1.jar",
+            "MD5": "e8f0a3574264bb202c153b90293dc84c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:deeperdarker:1.3.4@jar",
+          "name": "Deeper and Darker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17885687,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/deeperdarker-neoforge-1.21-1.3.4.jar",
+            "MD5": "60951a03f75becf06ee6e7c2bd2f7917"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:geckolib:4.8.3@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 622121,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/geckolib-neoforge-1.21.1-4.8.3.jar",
+            "MD5": "097799f159db31dd123eb47e31eacb01"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:iris:1.8.12-snapshot+mc1.21.1-local@jar",
           "name": "Iris",
           "type": "ForgeMod",
@@ -595,6 +686,58 @@
           }
         },
         {
+          "id": "generated.forgemod:cataclysm:3.22@jar",
+          "name": "L_Ender's Cataclysm 1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73345885,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/L_Ender's%20Cataclysm%201.21.1-3.22.jar",
+            "MD5": "1cbbb54abbc415aea66707c8233b9848"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:lionfishapi:2.0@jar",
+          "name": "Lionfishapi",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 150785,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/lionfishapi-2.1.jar",
+            "MD5": "b67543ae0d5dd3d5192aff0f2644b777"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:mobs_of_mythology:2.2.2@jar",
+          "name": "Mobs of Mythology",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1096977,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/mobs_of_mythology-neoforge-1.21.1-2.2.2.jar",
+            "MD5": "eb66fb30dbb1969d498c3ec6c827a19f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:mowziesmobs:1.7.5@jar",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35260457,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/mowziesmobs-1.21.1-1.7.5.jar",
+            "MD5": "1b8789dd093709c27c64911631a31cfe"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:owo:0.12.15.5-beta.1+1.21@jar",
           "name": "Oωo",
           "type": "ForgeMod",
@@ -602,6 +745,19 @@
             "size": 1221583,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
             "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f"
+          }
+        },
+        {
+          "id": "generated.forgemod:smartbrainlib:1.16.11@jar",
+          "name": "SmartBrainLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 391053,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+            "MD5": "252a7712a2c5d020d673f276dba280ee"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -622,6 +778,19 @@
             "size": 26580987,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/twilightforest-1.21.1-4.7.3196-universal.jar",
             "MD5": "69f394f8cda99516a5fc416e867aea92"
+          }
+        },
+        {
+          "id": "generated.forgemod:undergroundworlds:21.1.0@jar",
+          "name": "Underground Worlds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 621515,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/undergroundworlds-neoforge-21.1.0.jar",
+            "MD5": "7ef91639cdce2f7f3a84d685893b0f18"
+          },
+          "required": {
+            "value": false
           }
         },
         {
