@@ -699,13 +699,13 @@
           }
         },
         {
-          "id": "generated.forgemod:lionfishapi:2.0@jar",
+          "id": "generated.forgemod:lionfishapi:2.6@jar",
           "name": "Lionfishapi",
           "type": "ForgeMod",
           "artifact": {
-            "size": 150785,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/lionfishapi-2.1.jar",
-            "MD5": "b67543ae0d5dd3d5192aff0f2644b777"
+            "size": 92312,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/lionfishapi-2.6.jar",
+            "MD5": "f27209702fbb13f1dccb98e77931b5ae"
           },
           "required": {
             "value": false
