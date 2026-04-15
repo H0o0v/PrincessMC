@@ -1056,6 +1056,39 @@
             "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/zoomify-2.15.2+1.21.11.jar",
             "MD5": "60bb5705290ef18a774e75fcf2fadbfc"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/files/servers.dat",
+            "MD5": "f4afa1f777266506b49c9e46d1a0a51f",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "Nostalgia_v5.1.zip",
+          "name": "Nostalgia_v5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1842205,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/files/shaderpacks/Nostalgia_v5.1.zip",
+            "MD5": "38b14a6ce3da2c5b0dfa0fc3018052dd",
+            "path": "shaderpacks/Nostalgia_v5.1.zip"
+          }
         }
       ]
     }
