@@ -1018,6 +1018,26 @@
           }
         },
         {
+          "id": "journeymap:journeymap:1.21.11-6.0.0-beta.65@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3715378,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0-beta.65.jar",
+            "MD5": "9800ea058729979e032b11abe5fcff1d"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.5+mc1.21.11@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 652311,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
+            "MD5": "279717a521c4aa2cf450275220a985b7"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.8.7+mc1.21.11@jar",
           "name": "Sodium",
           "type": "FabricMod",
