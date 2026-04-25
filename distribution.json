@@ -1078,16 +1078,6 @@
           }
         },
         {
-          "id": "com.tristankechlo:livingthings:1.21.10-2.3.0@jar",
-          "name": "Living Things",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 983326,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/livingthings-fabric-1.21.10-2.3.0.jar",
-            "MD5": "de0680a8fea4e3b8e925ec9d9f3c884f"
-          }
-        },
-        {
           "id": "fr.hugman:promenade:5.4.0@jar",
           "name": "Promenade",
           "type": "FabricMod",
