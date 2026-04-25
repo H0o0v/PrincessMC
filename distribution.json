@@ -565,6 +565,16 @@
           ]
         },
         {
+          "id": "generated.forgemod:placeable_food:2.4.0@jar",
+          "name": "3D Placeable food",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4992416,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/3d_placeable_food-2.4.0-neoforge-1.21.1.jar",
+            "MD5": "c3483b58428f2fdf38ffd26c17257bfc"
+          }
+        },
+        {
           "id": "generated.forgemod:aether:1.5.10@jar",
           "name": "The Aether",
           "type": "ForgeMod",
@@ -598,6 +608,26 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:axiom:5.4.1-for-MC1.21.11@jar",
+          "name": "Axiom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47084842,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Axiom-5.4.1-for-MC1.21.11.jar",
+            "MD5": "051e19c0cced130ae187313c9c4b7cfa"
+          }
+        },
+        {
+          "id": "generated.forgemod:axion:v0.2.3-mc1.21.11@jar",
+          "name": "Axion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1524905,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Axion-v0.2.3-mc1.21.11.jar",
+            "MD5": "f3068639961c22563a9dd4b9fa51eb02"
           }
         },
         {
@@ -966,6 +996,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.moulberry:axiom:5.4.1@jar",
+          "name": "Axiom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 47084842,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/Axiom-5.4.1-for-MC1.21.11.jar",
+            "MD5": "051e19c0cced130ae187313c9c4b7cfa"
+          }
         },
         {
           "id": "generated.fabricmod:fabric-api:0.141.3+1.21.11@jar",
