@@ -611,26 +611,6 @@
           }
         },
         {
-          "id": "generated.forgemod:axiom:5.4.1-for-MC1.21.11@jar",
-          "name": "Axiom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47084842,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Axiom-5.4.1-for-MC1.21.11.jar",
-            "MD5": "051e19c0cced130ae187313c9c4b7cfa"
-          }
-        },
-        {
-          "id": "generated.forgemod:axion:v0.2.3-mc1.21.11@jar",
-          "name": "Axion",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1524905,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Axion-v0.2.3-mc1.21.11.jar",
-            "MD5": "f3068639961c22563a9dd4b9fa51eb02"
-          }
-        },
-        {
           "id": "generated.forgemod:azurelib:3.0.2@jar",
           "name": "AzureLib",
           "type": "ForgeMod",
@@ -1008,6 +988,16 @@
           }
         },
         {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:21.11.153@jar",
+          "name": "Cloth Config v20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1148427,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/cloth-config-21.11.153-fabric.jar",
+            "MD5": "9de770889c2b19445f57f881e4f7d6f8"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.141.3+1.21.11@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -1025,6 +1015,16 @@
             "size": 7796348,
             "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
             "MD5": "ab31a7c6fdfeb7f5dca011dcfa88ff08"
+          }
+        },
+        {
+          "id": "com.faboslav:friendsandfoes:4.0.25@jar",
+          "name": "Friends&Foes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4397961,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/friendsandfoes-fabric-4.0.25+mc1.21.11.jar",
+            "MD5": "63305b138b837f534b3e6461dd35f254"
           }
         },
         {
@@ -1078,6 +1078,46 @@
           }
         },
         {
+          "id": "com.tristankechlo:livingthings:1.21.10-2.3.0@jar",
+          "name": "Living Things",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 983326,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/livingthings-fabric-1.21.10-2.3.0.jar",
+            "MD5": "de0680a8fea4e3b8e925ec9d9f3c884f"
+          }
+        },
+        {
+          "id": "fr.hugman:promenade:5.4.0@jar",
+          "name": "Promenade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4740903,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/promenade-5.4.0.jar",
+            "MD5": "2450f3bec318e6a4a80a157ab91ca45b"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:3.11.0@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 460433,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/ResourcefulLib-fabric-1.21.11-3.11.0.jar",
+            "MD5": "3abae63b424ea0e0ca99dfe50fe742f2"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:29@jar",
+          "name": "Sit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 63972,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/sit-1.21.11-29.jar",
+            "MD5": "9beb52f08bef434df2517a4350fdcacf"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.8.7+mc1.21.11@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -1085,6 +1125,16 @@
             "size": 1870358,
             "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/sodium-fabric-0.8.7+mc1.21.11.jar",
             "MD5": "be9eef883db31e21e422aed7262df919"
+          }
+        },
+        {
+          "id": "net.tschipcraft:spawnanimations:1.11.4+mod@jar",
+          "name": "Spawn Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 226177,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar",
+            "MD5": "f7d9237cb217da6ad368308f54bfc9db"
           }
         },
         {
