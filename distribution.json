@@ -988,6 +988,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.10.7+mc1.21.11@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2807547,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/iris-fabric-1.10.7+mc1.21.11.jar",
+            "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9"
+          }
+        },
+        {
           "id": "snownee.jade:jade:21.1.6+fabric@jar",
           "name": "Jade",
           "type": "FabricMod",
@@ -1015,6 +1025,16 @@
             "size": 652311,
             "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
             "MD5": "279717a521c4aa2cf450275220a985b7"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.7+mc1.21.11@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1870358,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/sodium-fabric-0.8.7+mc1.21.11.jar",
+            "MD5": "be9eef883db31e21e422aed7262df919"
           }
         },
         {
