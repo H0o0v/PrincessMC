@@ -979,6 +979,16 @@
           }
         },
         {
+          "id": "tschipp.carryon:carryon:2.9.0@jar",
+          "name": "Carry On",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 372976,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/SimpleServer-1.21.11/fabricmods/required/carryon-fabric-1.21.11-2.9.0.jar",
+            "MD5": "01ec701faec604854610f75018bac85a"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:21.11.153@jar",
           "name": "Cloth Config v20",
           "type": "FabricMod",
