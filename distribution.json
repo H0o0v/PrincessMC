@@ -1240,6 +1240,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/Simple26-26.1.2/files/servers.dat",
+            "MD5": "f4afa1f777266506b49c9e46d1a0a51f",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
