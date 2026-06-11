@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/PrincessMC/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Simple26 (Minecraft 26.1.2)",
+    "description": "Simple26 Running Minecraft 26.1.2 (NeoForge v26.1.2.75)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "princessmc.kro.kr:31482",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "neoforge": {
+    "version": "26.1.2.75"
+  },
+  "untrackedFiles": []
+}
