@@ -700,11 +700,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2438548,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/iris-neoforge-1.8.12+mc1.21.1.jar",
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -793,11 +790,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1162994,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
             "MD5": "e5018c782d851fea76be0205b7616e5d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
