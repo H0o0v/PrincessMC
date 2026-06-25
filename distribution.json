@@ -615,6 +615,16 @@
           }
         },
         {
+          "id": "generated.forgemod:bloodmooncompanion:1.0.0@jar",
+          "name": "BloodMoon Companion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1941609,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/bloodmooncompanion-1.0.0.jar",
+            "MD5": "cdd8ceecf0282581c303a9c5e11fe86d"
+          }
+        },
+        {
           "id": "generated.forgemod:caxton:0.6.4+1.21.1-NEOFORGE@jar",
           "name": "Caxton",
           "type": "ForgeMod",
@@ -685,23 +695,13 @@
           }
         },
         {
-          "id": "generated.forgemod:iris:1.8.13-snapshot+mc1.21.1-local@jar",
+          "id": "generated.forgemod:iris:1.8.14-beta.1+mc1.21.1@jar",
           "name": "Iris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2540786,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/iris-neoforge-1.8.13-snapshot+mc1.21.1-local.jar",
-            "MD5": "fe8ceca3ef3ffab12c004418ad56d992"
-          }
-        },
-        {
-          "id": "generated.forgemod:koreanpatch:1.9.3+mc1.21@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 311529,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/koreanpatch-neoforge-1.9.3+mc1.21.jar",
-            "MD5": "3c8f37ae8329180638fb1e058ad1a118"
+            "size": 2540723,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+            "MD5": "6b68276a6718656ec476cfac69dfe013"
           }
         },
         {
@@ -759,9 +759,9 @@
           "name": "PrincessAIO",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5879,
+            "size": 84007725,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessaio-1.0.0-obf.jar",
-            "MD5": "5d9469a33a3163a1eb2c769142c2a5ba"
+            "MD5": "e19718b54115f1606ab596f8cf6a0d99"
           }
         },
         {
@@ -785,13 +785,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sodium:0.8.12-alpha.4+mc1.21.1@jar",
+          "id": "generated.forgemod:sodium:0.8.12-beta.1+mc1.21.1@jar",
           "name": "Sodium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1284493,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar",
-            "MD5": "b1cb136bf068c9f598b95b262a415adf"
+            "size": 1291422,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
+            "MD5": "7034c36b4af79f8d73702a0bff7b90b3"
           }
         },
         {
