@@ -695,13 +695,13 @@
           }
         },
         {
-          "id": "generated.forgemod:iris:1.8.14-beta.1+mc1.21.1@jar",
+          "id": "generated.forgemod:iris:1.8.12-snapshot+mc1.21.1-local@jar",
           "name": "Iris",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2540723,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-            "MD5": "6b68276a6718656ec476cfac69dfe013"
+            "size": 2438548,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
           },
           "required": {
             "value": false
@@ -788,13 +788,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sodium:0.8.12-beta.1+mc1.21.1@jar",
+          "id": "generated.forgemod:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1291422,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-            "MD5": "7034c36b4af79f8d73702a0bff7b90b3"
+            "size": 1162994,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/optionalon/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "MD5": "e5018c782d851fea76be0205b7616e5d"
           },
           "required": {
             "value": false
