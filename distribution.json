@@ -645,16 +645,6 @@
           }
         },
         {
-          "id": "generated.forgemod:curios:9.5.1+1.21.1@jar",
-          "name": "Curios API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 410690,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/curios-neoforge-9.5.1+1.21.1.jar",
-            "MD5": "e8f0a3574264bb202c153b90293dc84c"
-          }
-        },
-        {
           "id": "generated.forgemod:deeperdarker:1.3.4@jar",
           "name": "Deeper and Darker",
           "type": "ForgeMod",
@@ -759,9 +749,9 @@
           "name": "PrincessAIO",
           "type": "ForgeMod",
           "artifact": {
-            "size": 84007725,
+            "size": 83994881,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessaio-1.0.0-obf.jar",
-            "MD5": "e19718b54115f1606ab596f8cf6a0d99"
+            "MD5": "f02858e94a670f807f58185914754766"
           }
         },
         {
@@ -832,6 +822,1216 @@
             "size": 1710781,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
             "MD5": "fd0f59f1f365ef7cbcff8779c2483cd6"
+          }
+        },
+        {
+          "id": "accessories.json5",
+          "name": "accessories.json5",
+          "type": "File",
+          "artifact": {
+            "size": 915,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/accessories.json5",
+            "MD5": "c650b5f2c1efe0938cdf4f76eede88a0",
+            "path": "config/accessories.json5"
+          }
+        },
+        {
+          "id": "sun_altar_whitelist.json",
+          "name": "sun_altar_whitelist.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/aether/sun_altar_whitelist.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/aether/sun_altar_whitelist.json"
+          }
+        },
+        {
+          "id": "aether-common.toml",
+          "name": "aether-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1402,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/aether-common.toml",
+            "MD5": "fa5aaef6cd7ce5d06ae05b6ded9507a0",
+            "path": "config/aether-common.toml"
+          }
+        },
+        {
+          "id": "aether-server.toml",
+          "name": "aether-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3793,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/aether-server.toml",
+            "MD5": "3a5c6a20d1e2810d9a5c1c1316c843d6",
+            "path": "config/aether-server.toml"
+          }
+        },
+        {
+          "id": "aether-startup.toml",
+          "name": "aether-startup.toml",
+          "type": "File",
+          "artifact": {
+            "size": 104,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/aether-startup.toml",
+            "MD5": "f9b640883af9ac0e0931e5f8df7a08da",
+            "path": "config/aether-startup.toml"
+          }
+        },
+        {
+          "id": "alligator_snapping_turtle_spawns.json",
+          "name": "alligator_snapping_turtle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 750,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+            "MD5": "1612fd932d46bc7e1d2f512f24b8b50e",
+            "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+          }
+        },
+        {
+          "id": "anaconda_spawns.json",
+          "name": "anaconda_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1032,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/anaconda_spawns.json",
+            "MD5": "2571cf5bec58f00cd529ba5b2c6548b3",
+            "path": "config/alexsmobs/anaconda_spawns.json"
+          }
+        },
+        {
+          "id": "anteater_spawns.json",
+          "name": "anteater_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/anteater_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/anteater_spawns.json"
+          }
+        },
+        {
+          "id": "bald_eagle_spawns.json",
+          "name": "bald_eagle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2719,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/bald_eagle_spawns.json",
+            "MD5": "a325e17ed04405409ac3f537124dbf40",
+            "path": "config/alexsmobs/bald_eagle_spawns.json"
+          }
+        },
+        {
+          "id": "banana_slug_spawns.json",
+          "name": "banana_slug_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1689,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/banana_slug_spawns.json",
+            "MD5": "5e219001a913e4b3791205e90b4e88f2",
+            "path": "config/alexsmobs/banana_slug_spawns.json"
+          }
+        },
+        {
+          "id": "bison_spawns.json",
+          "name": "bison_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1753,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/bison_spawns.json",
+            "MD5": "08b1706d504d9fb5b33acf63378d77a9",
+            "path": "config/alexsmobs/bison_spawns.json"
+          }
+        },
+        {
+          "id": "blobfish_spawns.json",
+          "name": "blobfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/blobfish_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/blobfish_spawns.json"
+          }
+        },
+        {
+          "id": "blue_jay_spawns.json",
+          "name": "blue_jay_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/blue_jay_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/blue_jay_spawns.json"
+          }
+        },
+        {
+          "id": "bone_serpent_spawns.json",
+          "name": "bone_serpent_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 253,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/bone_serpent_spawns.json",
+            "MD5": "b6208ce4c3a2a65bedea86058fc1df1c",
+            "path": "config/alexsmobs/bone_serpent_spawns.json"
+          }
+        },
+        {
+          "id": "bunfungus_spawns.json",
+          "name": "bunfungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/bunfungus_spawns.json",
+            "MD5": "8d475d3e4f93fdcef5c02798564472c1",
+            "path": "config/alexsmobs/bunfungus_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_beached_spawns.json",
+          "name": "cachalot_whale_beached_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 642,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+            "MD5": "b779f228a334a5be8eaa5f845664105c",
+            "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_spawns.json",
+          "name": "cachalot_whale_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 889,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cachalot_whale_spawns.json",
+            "MD5": "3fc8f1b2c0466058fc021823426bcfb2",
+            "path": "config/alexsmobs/cachalot_whale_spawns.json"
+          }
+        },
+        {
+          "id": "caiman_spawns.json",
+          "name": "caiman_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/caiman_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/caiman_spawns.json"
+          }
+        },
+        {
+          "id": "capuchin_monkey_spawns.json",
+          "name": "capuchin_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1184,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
+            "path": "config/alexsmobs/capuchin_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "catfish_spawns.json",
+          "name": "catfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1089,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/catfish_spawns.json",
+            "MD5": "4ed120643d7a4e222796ce91c2236009",
+            "path": "config/alexsmobs/catfish_spawns.json"
+          }
+        },
+        {
+          "id": "cave_centipede_spawns.json",
+          "name": "cave_centipede_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2192,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cave_centipede_spawns.json",
+            "MD5": "922156164a885193c7624611e0fbf245",
+            "path": "config/alexsmobs/cave_centipede_spawns.json"
+          }
+        },
+        {
+          "id": "cockroach_spawns.json",
+          "name": "cockroach_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2081,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cockroach_spawns.json",
+            "MD5": "2e4cdf1517d742db07384a00f3d67a33",
+            "path": "config/alexsmobs/cockroach_spawns.json"
+          }
+        },
+        {
+          "id": "comb_jelly_spawns.json",
+          "name": "comb_jelly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/comb_jelly_spawns.json",
+            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
+            "path": "config/alexsmobs/comb_jelly_spawns.json"
+          }
+        },
+        {
+          "id": "cosmaw_spawns.json",
+          "name": "cosmaw_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cosmaw_spawns.json",
+            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
+            "path": "config/alexsmobs/cosmaw_spawns.json"
+          }
+        },
+        {
+          "id": "cosmic_cod_spawns.json",
+          "name": "cosmic_cod_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/cosmic_cod_spawns.json",
+            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
+            "path": "config/alexsmobs/cosmic_cod_spawns.json"
+          }
+        },
+        {
+          "id": "crimson_mosquito_spawns.json",
+          "name": "crimson_mosquito_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 781,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+            "MD5": "eb1a2bb1104c3cef150049de2d3e830f",
+            "path": "config/alexsmobs/crimson_mosquito_spawns.json"
+          }
+        },
+        {
+          "id": "crocodile_spawns.json",
+          "name": "crocodile_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 999,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/crocodile_spawns.json",
+            "MD5": "2619ba7041382aa994751dc1ae8c5aae",
+            "path": "config/alexsmobs/crocodile_spawns.json"
+          }
+        },
+        {
+          "id": "crow_spawns.json",
+          "name": "crow_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 5142,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/crow_spawns.json",
+            "MD5": "d0a99225d93f475713ed519f8700f08a",
+            "path": "config/alexsmobs/crow_spawns.json"
+          }
+        },
+        {
+          "id": "devils_hole_pupfish_spawns.json",
+          "name": "devils_hole_pupfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
+          }
+        },
+        {
+          "id": "dropbear_spawns.json",
+          "name": "dropbear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/dropbear_spawns.json",
+            "MD5": "0e94c2329c55e4b9a62c22960849e152",
+            "path": "config/alexsmobs/dropbear_spawns.json"
+          }
+        },
+        {
+          "id": "elephant_spawns.json",
+          "name": "elephant_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/elephant_spawns.json",
+            "MD5": "1032996d6a2cac873766f7a443d44810",
+            "path": "config/alexsmobs/elephant_spawns.json"
+          }
+        },
+        {
+          "id": "emu_spawns.json",
+          "name": "emu_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/emu_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/emu_spawns.json"
+          }
+        },
+        {
+          "id": "endergrade_spawns.json",
+          "name": "endergrade_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/endergrade_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/endergrade_spawns.json"
+          }
+        },
+        {
+          "id": "enderiophage_spawns.json",
+          "name": "enderiophage_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 603,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/enderiophage_spawns.json",
+            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
+            "path": "config/alexsmobs/enderiophage_spawns.json"
+          }
+        },
+        {
+          "id": "farseer.json",
+          "name": "farseer.json",
+          "type": "File",
+          "artifact": {
+            "size": 262,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/farseer.json",
+            "MD5": "545e8dcaae8563ace39b3c164e5f5e7e",
+            "path": "config/alexsmobs/farseer.json"
+          }
+        },
+        {
+          "id": "flutter_spawns.json",
+          "name": "flutter_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/flutter_spawns.json",
+            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "path": "config/alexsmobs/flutter_spawns.json"
+          }
+        },
+        {
+          "id": "flying_fish_spawns.json",
+          "name": "flying_fish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 708,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/flying_fish_spawns.json",
+            "MD5": "aaf9a1130d665f7b50064f6b4be570eb",
+            "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/fly_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/fly_spawns.json"
+          }
+        },
+        {
+          "id": "frilled_shark_spawns.json",
+          "name": "frilled_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/frilled_shark_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/frilled_shark_spawns.json"
+          }
+        },
+        {
+          "id": "froststalker_spawns.json",
+          "name": "froststalker_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 934,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/froststalker_spawns.json",
+            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
+            "path": "config/alexsmobs/froststalker_spawns.json"
+          }
+        },
+        {
+          "id": "gazelle_spawns.json",
+          "name": "gazelle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/gazelle_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/gazelle_spawns.json"
+          }
+        },
+        {
+          "id": "gelada_monkey_spawns.json",
+          "name": "gelada_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 993,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/gelada_monkey_spawns.json",
+            "MD5": "84b640124afb8de7bd27b9f4780f01f7",
+            "path": "config/alexsmobs/gelada_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "giant_squid_spawns.json",
+          "name": "giant_squid_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/giant_squid_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/giant_squid_spawns.json"
+          }
+        },
+        {
+          "id": "gorilla_spawns.json",
+          "name": "gorilla_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/gorilla_spawns.json",
+            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
+            "path": "config/alexsmobs/gorilla_spawns.json"
+          }
+        },
+        {
+          "id": "grizzly_bear_spawns.json",
+          "name": "grizzly_bear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/grizzly_bear_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/grizzly_bear_spawns.json"
+          }
+        },
+        {
+          "id": "guster_spawns.json",
+          "name": "guster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1116,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/guster_spawns.json",
+            "MD5": "adafd5888bf7f99a1ec169426e65522d",
+            "path": "config/alexsmobs/guster_spawns.json"
+          }
+        },
+        {
+          "id": "hammerhead_shark_spawns.json",
+          "name": "hammerhead_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+            "MD5": "6a2314a4130a3073965e87053fd0bc82",
+            "path": "config/alexsmobs/hammerhead_shark_spawns.json"
+          }
+        },
+        {
+          "id": "hummingbird_spawns.json",
+          "name": "hummingbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3029,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/hummingbird_spawns.json",
+            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
+            "path": "config/alexsmobs/hummingbird_spawns.json"
+          }
+        },
+        {
+          "id": "jerboa_spawns.json",
+          "name": "jerboa_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1240,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/jerboa_spawns.json",
+            "MD5": "c6b90789703d28d8d91e0bacb1491a90",
+            "path": "config/alexsmobs/jerboa_spawns.json"
+          }
+        },
+        {
+          "id": "kangaroo_spawns.json",
+          "name": "kangaroo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/kangaroo_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/kangaroo_spawns.json"
+          }
+        },
+        {
+          "id": "komodo_dragon_spawns.json",
+          "name": "komodo_dragon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 771,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/komodo_dragon_spawns.json",
+            "MD5": "2671c74d2406cd8182b0cabaac7140f0",
+            "path": "config/alexsmobs/komodo_dragon_spawns.json"
+          }
+        },
+        {
+          "id": "laviathan_spawns.json",
+          "name": "laviathan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/laviathan_spawns.json",
+            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "path": "config/alexsmobs/laviathan_spawns.json"
+          }
+        },
+        {
+          "id": "leafcutter_anthill_spawns.json",
+          "name": "leafcutter_anthill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
+          }
+        },
+        {
+          "id": "lobster_spawns.json",
+          "name": "lobster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/lobster_spawns.json",
+            "MD5": "3284cadc1438c85425a3621a016e6eba",
+            "path": "config/alexsmobs/lobster_spawns.json"
+          }
+        },
+        {
+          "id": "maned_wolf_spawns.json",
+          "name": "maned_wolf_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/maned_wolf_spawns.json",
+            "MD5": "c21feac193fa689955ac90f659e1f0c2",
+            "path": "config/alexsmobs/maned_wolf_spawns.json"
+          }
+        },
+        {
+          "id": "mantis_shrimp_spawns.json",
+          "name": "mantis_shrimp_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 381,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+            "MD5": "058fad337964a50f07113e9a14655587",
+            "path": "config/alexsmobs/mantis_shrimp_spawns.json"
+          }
+        },
+        {
+          "id": "mimicube_spawns.json",
+          "name": "mimicube_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 361,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/mimicube_spawns.json",
+            "MD5": "8a0db6566c4c765f54a187647714dafd",
+            "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "MD5": "f06db03437677bd744243a39a340e2db",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
+          }
+        },
+        {
+          "id": "moose_spawns.json",
+          "name": "moose_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2279,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/moose_spawns.json",
+            "MD5": "f37a426a4019cd5cb05ad7c226c4d37a",
+            "path": "config/alexsmobs/moose_spawns.json"
+          }
+        },
+        {
+          "id": "mudskipper_spawns.json",
+          "name": "mudskipper_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/mudskipper_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/mudskipper_spawns.json"
+          }
+        },
+        {
+          "id": "mungus_spawns.json",
+          "name": "mungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/mungus_spawns.json",
+            "MD5": "8d475d3e4f93fdcef5c02798564472c1",
+            "path": "config/alexsmobs/mungus_spawns.json"
+          }
+        },
+        {
+          "id": "murmur.json",
+          "name": "murmur.json",
+          "type": "File",
+          "artifact": {
+            "size": 2192,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/murmur.json",
+            "MD5": "922156164a885193c7624611e0fbf245",
+            "path": "config/alexsmobs/murmur.json"
+          }
+        },
+        {
+          "id": "orca_spawns.json",
+          "name": "orca_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 251,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/orca_spawns.json",
+            "MD5": "ddaee37aa8a451c0484973b919cca420",
+            "path": "config/alexsmobs/orca_spawns.json"
+          }
+        },
+        {
+          "id": "platypus_spawns.json",
+          "name": "platypus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 621,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/platypus_spawns.json",
+            "MD5": "a23edfc3a01c2c5622620f442c6a8193",
+            "path": "config/alexsmobs/platypus_spawns.json"
+          }
+        },
+        {
+          "id": "potoo_spawns.json",
+          "name": "potoo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/potoo_spawns.json",
+            "MD5": "d1511fa5b0562676dab091599bc838a2",
+            "path": "config/alexsmobs/potoo_spawns.json"
+          }
+        },
+        {
+          "id": "raccoon_spawns.json",
+          "name": "raccoon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3708,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/raccoon_spawns.json",
+            "MD5": "acebed0c7954d70f5835f34c3b891376",
+            "path": "config/alexsmobs/raccoon_spawns.json"
+          }
+        },
+        {
+          "id": "rain_frog_spawns.json",
+          "name": "rain_frog_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1240,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/rain_frog_spawns.json",
+            "MD5": "c6b90789703d28d8d91e0bacb1491a90",
+            "path": "config/alexsmobs/rain_frog_spawns.json"
+          }
+        },
+        {
+          "id": "rattlesnake_spawns.json",
+          "name": "rattlesnake_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1634,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/rattlesnake_spawns.json",
+            "MD5": "8e23413736a996951fb625397ff3f3a7",
+            "path": "config/alexsmobs/rattlesnake_spawns.json"
+          }
+        },
+        {
+          "id": "rhinoceros_spawns.json",
+          "name": "rhinoceros_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/rhinoceros_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/rhinoceros_spawns.json"
+          }
+        },
+        {
+          "id": "roadrunner_spawns.json",
+          "name": "roadrunner_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1634,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/roadrunner_spawns.json",
+            "MD5": "8e23413736a996951fb625397ff3f3a7",
+            "path": "config/alexsmobs/roadrunner_spawns.json"
+          }
+        },
+        {
+          "id": "rocky_roller_spawns.json",
+          "name": "rocky_roller_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 669,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/rocky_roller_spawns.json",
+            "MD5": "0ee17cc0e67f4e0ec70f963c658b71bf",
+            "path": "config/alexsmobs/rocky_roller_spawns.json"
+          }
+        },
+        {
+          "id": "seagull_spawns.json",
+          "name": "seagull_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1296,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/seagull_spawns.json",
+            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
+            "path": "config/alexsmobs/seagull_spawns.json"
+          }
+        },
+        {
+          "id": "seal_spawns.json",
+          "name": "seal_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 873,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/seal_spawns.json",
+            "MD5": "da2e5f89d6a148ca2008c351c026b1ec",
+            "path": "config/alexsmobs/seal_spawns.json"
+          }
+        },
+        {
+          "id": "shoebill_spawns.json",
+          "name": "shoebill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/shoebill_spawns.json",
+            "MD5": "ea40512f5507f6e83260ef5696c40555",
+            "path": "config/alexsmobs/shoebill_spawns.json"
+          }
+        },
+        {
+          "id": "skelewag_spawns.json",
+          "name": "skelewag_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 370,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/skelewag_spawns.json",
+            "MD5": "b81d0f4e46326e1c88c23c34b0f86602",
+            "path": "config/alexsmobs/skelewag_spawns.json"
+          }
+        },
+        {
+          "id": "skreecher.json",
+          "name": "skreecher.json",
+          "type": "File",
+          "artifact": {
+            "size": 272,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/skreecher.json",
+            "MD5": "ce39ad5dd123dfcd62b854469283815d",
+            "path": "config/alexsmobs/skreecher.json"
+          }
+        },
+        {
+          "id": "skunk_spawns.json",
+          "name": "skunk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2033,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/skunk_spawns.json",
+            "MD5": "8e885caf4fa2f10dc5fa9c6216faa668",
+            "path": "config/alexsmobs/skunk_spawns.json"
+          }
+        },
+        {
+          "id": "snow_leopard_spawns.json",
+          "name": "snow_leopard_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1804,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/snow_leopard_spawns.json",
+            "MD5": "c6579e5e8ded01cfcc6b337b92d48506",
+            "path": "config/alexsmobs/snow_leopard_spawns.json"
+          }
+        },
+        {
+          "id": "soul_vulture_spawns.json",
+          "name": "soul_vulture_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 519,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/soul_vulture_spawns.json",
+            "MD5": "0f34e243633de91a26dede615f852487",
+            "path": "config/alexsmobs/soul_vulture_spawns.json"
+          }
+        },
+        {
+          "id": "spectre_spawns.json",
+          "name": "spectre_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/spectre_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/spectre_spawns.json"
+          }
+        },
+        {
+          "id": "straddler_spawns.json",
+          "name": "straddler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 660,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/straddler_spawns.json",
+            "MD5": "75d0a15283306b1b4a0a4ccf0d280e9a",
+            "path": "config/alexsmobs/straddler_spawns.json"
+          }
+        },
+        {
+          "id": "stradpole_spawns.json",
+          "name": "stradpole_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 660,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/stradpole_spawns.json",
+            "MD5": "75d0a15283306b1b4a0a4ccf0d280e9a",
+            "path": "config/alexsmobs/stradpole_spawns.json"
+          }
+        },
+        {
+          "id": "sugar_glider_spawns.json",
+          "name": "sugar_glider_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/sugar_glider_spawns.json",
+            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
+            "path": "config/alexsmobs/sugar_glider_spawns.json"
+          }
+        },
+        {
+          "id": "sunbird_spawns.json",
+          "name": "sunbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3925,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/sunbird_spawns.json",
+            "MD5": "147fdf357f3478c40b5b7481569c6c07",
+            "path": "config/alexsmobs/sunbird_spawns.json"
+          }
+        },
+        {
+          "id": "tarantula_hawk_spawns.json",
+          "name": "tarantula_hawk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1240,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+            "MD5": "c6b90789703d28d8d91e0bacb1491a90",
+            "path": "config/alexsmobs/tarantula_hawk_spawns.json"
+          }
+        },
+        {
+          "id": "tasmanian_devil_spawns.json",
+          "name": "tasmanian_devil_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1904,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+            "MD5": "ca6ca10e9f534d483df43e097ab0a8b2",
+            "path": "config/alexsmobs/tasmanian_devil_spawns.json"
+          }
+        },
+        {
+          "id": "terrapin_spawns.json",
+          "name": "terrapin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 621,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/terrapin_spawns.json",
+            "MD5": "a23edfc3a01c2c5622620f442c6a8193",
+            "path": "config/alexsmobs/terrapin_spawns.json"
+          }
+        },
+        {
+          "id": "tiger_spawns.json",
+          "name": "tiger_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/tiger_spawns.json",
+            "MD5": "8e7708606954a64a9f8648585c8a4a74",
+            "path": "config/alexsmobs/tiger_spawns.json"
+          }
+        },
+        {
+          "id": "toucan_spawns.json",
+          "name": "toucan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/toucan_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/toucan_spawns.json"
+          }
+        },
+        {
+          "id": "triops_spawns.json",
+          "name": "triops_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1240,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/triops_spawns.json",
+            "MD5": "c6b90789703d28d8d91e0bacb1491a90",
+            "path": "config/alexsmobs/triops_spawns.json"
+          }
+        },
+        {
+          "id": "tusklin_spawns.json",
+          "name": "tusklin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 874,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/tusklin_spawns.json",
+            "MD5": "7cb897b147863d2b3bb6940b11bc1b30",
+            "path": "config/alexsmobs/tusklin_spawns.json"
+          }
+        },
+        {
+          "id": "underminer.json",
+          "name": "underminer.json",
+          "type": "File",
+          "artifact": {
+            "size": 2081,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/underminer.json",
+            "MD5": "2e4cdf1517d742db07384a00f3d67a33",
+            "path": "config/alexsmobs/underminer.json"
+          }
+        },
+        {
+          "id": "void_worm_spawns.json",
+          "name": "void_worm_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/void_worm_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/void_worm_spawns.json"
+          }
+        },
+        {
+          "id": "warped_mosco_spawns.json",
+          "name": "warped_mosco_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/warped_mosco_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/warped_mosco_spawns.json"
+          }
+        },
+        {
+          "id": "warped_toad_spawns.json",
+          "name": "warped_toad_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 661,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs/warped_toad_spawns.json",
+            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
+            "path": "config/alexsmobs/warped_toad_spawns.json"
+          }
+        },
+        {
+          "id": "alexsmobs-common.toml",
+          "name": "alexsmobs-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 39593,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/alexsmobs-common.toml",
+            "MD5": "d2680b013c66fc2cb62fdb5f105059d1",
+            "path": "config/alexsmobs-common.toml"
+          }
+        },
+        {
+          "id": "azurelib.json",
+          "name": "azurelib.json",
+          "type": "File",
+          "artifact": {
+            "size": 30,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/azurelib.json",
+            "MD5": "b6fe233bc2c9408d6d5f57c23940d30e",
+            "path": "config/azurelib.json"
+          }
+        },
+        {
+          "id": "cataclysm-common.toml",
+          "name": "cataclysm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 30666,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/cataclysm-common.toml",
+            "MD5": "38316ea692a53932e0b2454fbc087009",
+            "path": "config/cataclysm-common.toml"
+          }
+        },
+        {
+          "id": "citadel-common.toml",
+          "name": "citadel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 662,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/citadel-common.toml",
+            "MD5": "8e6b06c8ee3fa3fab7956c82399881b3",
+            "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "curios-common.toml",
+          "name": "curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/curios-common.toml",
+            "MD5": "0addc1c3c75406e6ed98709885d58d7c",
+            "path": "config/curios-common.toml"
+          }
+        },
+        {
+          "id": "curios-server.toml",
+          "name": "curios-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 483,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/curios-server.toml",
+            "MD5": "3d9e748bba95ccb5983ee30504323e5d",
+            "path": "config/curios-server.toml"
+          }
+        },
+        {
+          "id": "deeperdarker-common.toml",
+          "name": "deeperdarker-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 854,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/deeperdarker-common.toml",
+            "MD5": "045ac2ab78f7c66505f4b60e22073998",
+            "path": "config/deeperdarker-common.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1550,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/fml.toml",
+            "MD5": "61a62e6a2b5b00f324065233e76b9a64",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "iteminteractions-server.toml",
+          "name": "iteminteractions-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 739,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/iteminteractions-server.toml",
+            "MD5": "01f0fcdc74598b4b9398197d1f8c31a1",
+            "path": "config/iteminteractions-server.toml"
+          }
+        },
+        {
+          "id": "mobs_of_mythology.properties",
+          "name": "mobs_of_mythology.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2209,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/mobs_of_mythology.properties",
+            "MD5": "5fd398efce8e6b112002ffce3f08c2e6",
+            "path": "config/mobs_of_mythology.properties"
+          }
+        },
+        {
+          "id": "mowziesmobs-common.toml",
+          "name": "mowziesmobs-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 34648,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/mowziesmobs-common.toml",
+            "MD5": "cd4ead2ceb1684912128f483f4422186",
+            "path": "config/mowziesmobs-common.toml"
+          }
+        },
+        {
+          "id": "neoforge-common.toml",
+          "name": "neoforge-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 772,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/neoforge-common.toml",
+            "MD5": "914110a675baa858ef6725e3f56e513c",
+            "path": "config/neoforge-common.toml"
+          }
+        },
+        {
+          "id": "neoforge-server.toml",
+          "name": "neoforge-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1175,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/neoforge-server.toml",
+            "MD5": "541fc5107846bc6374b1d75a0ba82886",
+            "path": "config/neoforge-server.toml"
+          }
+        },
+        {
+          "id": "twilightforest-common.toml",
+          "name": "twilightforest-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9324,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/twilightforest-common.toml",
+            "MD5": "48a9cda6ef8b10c80ddf89cd757c89b8",
+            "path": "config/twilightforest-common.toml"
+          }
+        },
+        {
+          "id": "undergroundworlds-common.toml",
+          "name": "undergroundworlds-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6501,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/undergroundworlds-common.toml",
+            "MD5": "72eaedea5213465c0ed3a2b5e83509fa",
+            "path": "config/undergroundworlds-common.toml"
           }
         },
         {
