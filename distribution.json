@@ -645,6 +645,16 @@
           }
         },
         {
+          "id": "generated.forgemod:curios:9.5.1+1.21.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/curios-neoforge-9.5.1+1.21.1.jar",
+            "MD5": "e8f0a3574264bb202c153b90293dc84c"
+          }
+        },
+        {
           "id": "generated.forgemod:deeperdarker:1.3.4@jar",
           "name": "Deeper and Darker",
           "type": "ForgeMod",
@@ -2459,6 +2469,17 @@
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/config/xaeropatreon.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6615,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/files/options.txt",
+            "MD5": "42a79246017fe3f24c40836cd53b0060",
+            "path": "options.txt"
           }
         },
         {
