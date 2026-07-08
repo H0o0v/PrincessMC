@@ -749,9 +749,29 @@
           "name": "PrincessAIO",
           "type": "ForgeMod",
           "artifact": {
-            "size": 83994881,
+            "size": 84024240,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessaio-1.0.0-obf.jar",
-            "MD5": "f02858e94a670f807f58185914754766"
+            "MD5": "71efc05ef9696aaf4467dd5cb6ba0675"
+          }
+        },
+        {
+          "id": "generated.forgemod:princessmotion:1.0.0@jar",
+          "name": "PrincessMotion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31865,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessmotion-1.0.0.jar",
+            "MD5": "2be1d463053e073225808bd2b099fbe3"
+          }
+        },
+        {
+          "id": "generated.forgemod:princessphysicscore:1.0.0@jar",
+          "name": "PrincessPhysicsCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12690,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/PrincessPhysicsCore-1.0.0.jar",
+            "MD5": "45ab0a353e91d487e890b7636a7dcf91"
           }
         },
         {
@@ -815,13 +835,13 @@
           }
         },
         {
-          "id": "generated.forgemod:xaerominimap:25.2.10@jar",
+          "id": "generated.forgemod:xaerominimap:26.1.0@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1710781,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
-            "MD5": "fd0f59f1f365ef7cbcff8779c2483cd6"
+            "size": 2138254,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+            "MD5": "7a16e984052424ebf78f50283bca73e5"
           }
         },
         {
