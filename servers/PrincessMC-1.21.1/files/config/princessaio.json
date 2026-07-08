@@ -1,0 +1,11 @@
+{
+  "bgmVolume": 0.0,
+  "partyGuiScale": 0.8,
+  "partyNametag": true,
+  "partyHud": true,
+  "hudPosition": "TOP_LEFT",
+  "chatX": 0,
+  "chatY": 211,
+  "chatWidth": 317,
+  "chatHeight": 157
+}

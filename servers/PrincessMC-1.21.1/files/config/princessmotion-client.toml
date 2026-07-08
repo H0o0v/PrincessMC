@@ -1,0 +1,11 @@
+[network]
+	#서버로 포즈를 전송하는 초당 횟수. 20이 기본값이며 클라이언트
+	#틱(20tps)에 맞춰 동작하므로 20을 넘겨도 실질적인 효과는 없음.
+	# Default: 20
+	# Range: 1 ~ 20
+	sendRateHz = 20
+	#PrincessMotion Companion(파이썬 앱)의 로컬 소켓 포트.
+	#Companion의 config.json과 반드시 일치해야 함.
+	# Default: 34567
+	# Range: 1024 ~ 65535
+	companionSocketPort = 34567
