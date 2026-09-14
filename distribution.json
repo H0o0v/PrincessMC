@@ -759,9 +759,9 @@
           "name": "PrincessAIO",
           "type": "ForgeMod",
           "artifact": {
-            "size": 84024240,
+            "size": 84100032,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessaio-1.0.0-obf.jar",
-            "MD5": "71efc05ef9696aaf4467dd5cb6ba0675"
+            "MD5": "3a2eba57cb7e61c8f30566e227ecc033"
           }
         },
         {
@@ -845,13 +845,23 @@
           }
         },
         {
-          "id": "generated.forgemod:xaerominimap:26.1.0@jar",
+          "id": "generated.forgemod:xaerominimap:26.4.2@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2138254,
-            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/xaerominimap-neoforge-1.21.1-26.1.0.jar",
-            "MD5": "7a16e984052424ebf78f50283bca73e5"
+            "size": 2185409,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+            "MD5": "17eff3fe469527971f1f05990f3527f8"
+          }
+        },
+        {
+          "id": "generated.forgemod:xaeroworldmap:1.44.2@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1418918,
+            "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+            "MD5": "f118c57dc2c1e5b9347820ecaf66b8ea"
           }
         },
         {
