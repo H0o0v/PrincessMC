@@ -739,9 +739,9 @@
           "name": "PrincessAIO",
           "type": "ForgeMod",
           "artifact": {
-            "size": 84100032,
+            "size": 84103016,
             "url": "https://h0o0v.github.io/PrincessMC/servers/PrincessMC-1.21.1/forgemods/required/princessaio-1.0.0-obf.jar",
-            "MD5": "3a2eba57cb7e61c8f30566e227ecc033"
+            "MD5": "7dd3c04da95663d8e8c3c1da65b6a6c6"
           }
         },
         {
